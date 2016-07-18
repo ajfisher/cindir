@@ -66,7 +66,6 @@ botcontroller.hears(
     ['direct_message', 'direct_mention', 'mention'],
     function(bot, message) {
 
-        console.log(message);
         var onoff = message.match[1]; // [0] is the whole string
         if (onoff == "on") {
             led.on();
