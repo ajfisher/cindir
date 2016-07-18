@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ajfisher/cindir/issues"
   },
-  "homepage": "https://github.com/ajfisher/cindir#readme"
+  "homepage": "https://github.com/ajfisher/cindir#readme",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
 }
