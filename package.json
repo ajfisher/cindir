@@ -1,0 +1,26 @@
+{
+  "name": "cindir",
+  "version": "0.1.0",
+  "description": "Conversational Interface for Nodebot Displays, Interactions and Responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajfisher/cindir.git"
+  },
+  "keywords": [
+    "howdy",
+    "johnny-five",
+    "nodebots",
+    "hardware",
+    "slack"
+  ],
+  "author": "Andrew Fisher <ajfisher.td@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajfisher/cindir/issues"
+  },
+  "homepage": "https://github.com/ajfisher/cindir#readme"
+}
